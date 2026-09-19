@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "fms-link")(type "KiCad")(uri "${KIPRJMOD}/fms-link.kicad_sym")(options "")(descr "Game Boy link cable adapter symbols"))
+)
