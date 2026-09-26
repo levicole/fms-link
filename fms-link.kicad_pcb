@@ -347,7 +347,7 @@
 		(layer "F.Cu")
 		(uuid "c7edc175-105c-47fc-8bdb-229302f8787c")
 		(at 20.5 26.9)
-	(descr "Game Boy link cable edge connector fingers. Front side pads 2/4/6 (SO/SD/GND), back side pads 1/3/5 (VDD/SI/SC).")
+	(descr "Game Boy link cable edge connector fingers. Front side pads 2/4/6 (SO/SD/GND), back side pads 1/3/5 (VDD/SI/SC). Derived from Nick Palmer's gb-link-cable (https://github.com/Palmr/gb-link-cable), CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).")
 	(tags "gameboy link edge connector")
 	(attr smd)
 	(property "Reference" "GB1"

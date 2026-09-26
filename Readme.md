@@ -55,10 +55,20 @@ the four jack slots come through as slots rather than round holes.
 The Game Boy link-port edge-connector footprint (`gb-link-socket`) and the board tongue
 geometry come from Nick Palmer's
 [gb-link-cable](https://github.com/Palmr/gb-link-cable) breakout board — the pad
-positions and tongue outline are his, reformatted here for KiCad 10. That project in turn
-followed [this devlog](http://obskyr.io/lanette/devlog/making-a-game-boy-link-cable-breakout-board/)
-on building a link cable breakout, and he wrote up his own build
-[on his blog](https://palmr.co.uk/posts/26-gameboy-link-cable-breakout/).
+positions and tongue outline are Nick Palmer's, reformatted here for KiCad 10. Nick Palmer's
+design is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). That
+project in turn followed
+[this devlog](http://obskyr.io/lanette/devlog/making-a-game-boy-link-cable-breakout-board/)
+on building a link cable breakout, and Nick Palmer wrote up the build
+[on palmr.co.uk](https://palmr.co.uk/posts/26-gameboy-link-cable-breakout/).
 
 Everything else here — the TRS jack footprint and 3D model, the schematic, the board
 outline and routing — is new.
+
+## License
+
+FMS Link is © 2026 Levi Kennedy and licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); see [LICENSE](LICENSE). You
+may copy, modify, build and sell it, provided you credit FMS Link and link back to this
+repository. The `gb-link-socket` footprint and tongue geometry remain Nick Palmer's work
+under the same license, and reuse of them should credit Nick Palmer as described above.
